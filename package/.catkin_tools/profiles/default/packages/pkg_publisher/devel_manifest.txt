@@ -1,0 +1,6 @@
+pkg_publisher
+/home/ye/package/devel/.private/pkg_publisher/cmake.lock /home/ye/package/devel/./cmake.lock
+/home/ye/package/devel/.private/pkg_publisher/share/pkg_publisher/cmake/pkg_publisherConfig.cmake /home/ye/package/devel/share/pkg_publisher/cmake/pkg_publisherConfig.cmake
+/home/ye/package/devel/.private/pkg_publisher/share/pkg_publisher/cmake/pkg_publisherConfig-version.cmake /home/ye/package/devel/share/pkg_publisher/cmake/pkg_publisherConfig-version.cmake
+/home/ye/package/devel/.private/pkg_publisher/lib/pkgconfig/pkg_publisher.pc /home/ye/package/devel/lib/pkgconfig/pkg_publisher.pc
+/home/ye/package/devel/.private/pkg_publisher/lib/pkg_publisher/ok /home/ye/package/devel/lib/pkg_publisher/ok

@@ -1,0 +1,7 @@
+[01m[K/home/ye/package/src/pkg_publisher/src/vel.cpp:[m[K In function ‘[01m[Kvoid poseCallback(const ConstPtr&)[m[K’:
+[01m[K/home/ye/package/src/pkg_publisher/src/vel.cpp:9:8:[m[K [01;31m[Kerror: [m[K‘[01m[Kpose[m[K’ was not declared in this scope
+    9 |     if([01;31m[Kpose[m[K.position.x==0.55 && pose.pose.position.y==-0.49)
+      |        [01;31m[K^~~~[m[K
+make[2]: *** [CMakeFiles/vel.dir/build.make:63：CMakeFiles/vel.dir/src/vel.cpp.o] 错误 1
+make[1]: *** [CMakeFiles/Makefile2:155：CMakeFiles/vel.dir/all] 错误 2
+make: *** [Makefile:141：all] 错误 2

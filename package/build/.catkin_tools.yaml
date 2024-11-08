@@ -1,0 +1,6 @@
+devel_space: /home/ye/package/devel
+install: false
+install_space: /home/ye/package/install
+profile: default
+source_space: /home/ye/package/src
+workspace: /home/ye/package

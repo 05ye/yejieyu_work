@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="pkg_publisher"
+    type="ok"
+    name="my_publisher"/>
+</launch>

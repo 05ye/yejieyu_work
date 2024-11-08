@@ -1,0 +1,8 @@
+prefix=/home/ye/package/install
+
+Name: pkg_publisher
+Description: Description of pkg_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp

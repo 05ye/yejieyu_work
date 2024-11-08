@@ -1,0 +1,7 @@
+[01m[K/home/ye/package/src/pkg_publisher/src/ok.cpp:1:10:[m[K [01;31m[Kfatal error: [m[Ka: 没有那个文件或目录
+    1 | #include [01;31m[K"a"[m[K
+      |          [01;31m[K^~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/ok.dir/build.make:63：CMakeFiles/ok.dir/src/ok.cpp.o] 错误 1
+make[1]: *** [CMakeFiles/Makefile2:155：CMakeFiles/ok.dir/all] 错误 2
+make: *** [Makefile:141：all] 错误 2
