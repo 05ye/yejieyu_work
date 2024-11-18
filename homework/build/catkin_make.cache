@@ -1,0 +1,2 @@
+a
+-DCATKIN_DEVEL_PREFIX=/home/ye/homework/devel -DCMAKE_INSTALL_PREFIX=/home/ye/homework/install -G Unix Makefiles
