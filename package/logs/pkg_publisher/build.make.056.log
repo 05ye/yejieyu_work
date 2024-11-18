@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target ok[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/ok.dir/src/ok.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/ye/package/devel/.private/pkg_publisher/lib/pkg_publisher/ok[0m
-[100%] Built target ok

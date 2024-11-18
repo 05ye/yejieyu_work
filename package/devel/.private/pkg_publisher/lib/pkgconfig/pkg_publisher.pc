@@ -1,8 +1,0 @@
-prefix=/home/ye/package/devel/.private/pkg_publisher
-
-Name: pkg_publisher
-Description: Description of pkg_publisher
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: roscpp
